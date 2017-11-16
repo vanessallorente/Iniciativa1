@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppSesion1</string>
+    <string name="pedir_datos">Introduzca los datos de usuario</string>
+    <string name="acerca_de">Acerca de</string>
+</resources>
